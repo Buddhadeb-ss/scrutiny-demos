@@ -364,7 +364,10 @@ The [`scrutiny_postbuild.py`](scrutiny_postbuild.py) script solves this cleanly:
 
 ## 13. Demo Video
 
-This walkthrough video demonstrates how to set up and run the ESP32 Scrutiny demo, monitor live variables, and view the sine-wave plot in the Scrutiny GUI.
+This walkthrough video demonstrates how to set up and run the ESP32 Scrutiny demo, monitor live variables, and view the sine-wave plot in the Scrutiny GUI:
 
-<!-- [Watch the ESP32 Scrutiny Demo Video](https://youtu.be/bMgFpknRrbE) -->
+[![ESP32 Scrutiny Demo Walkthrough](https://img.youtube.com/vi/bMgFpknRrbE/maxresdefault.jpg)](https://www.youtube.com/watch?v=bMgFpknRrbE "Watch the ESP32 Scrutiny Demo on YouTube")
+
+*(Click the thumbnail above or [watch directly on YouTube](https://www.youtube.com/watch?v=bMgFpknRrbE))*
+
 
